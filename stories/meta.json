@@ -1,0 +1,93 @@
+{
+  "about": {
+    "homepage": "https://www.ladle.dev",
+    "github": "https://github.com/tajo/ladle",
+    "version": 1
+  },
+  "stories": {
+    "forcegraph2d--basic--auto-colored": {
+      "name": "Auto colored",
+      "levels": [
+        "Forcegraph2d",
+        "Basic"
+      ],
+      "locStart": 58,
+      "locEnd": 71,
+      "filePath": "story-src/BasicGraph.stories.tsx",
+      "namedExport": "AutoColored",
+      "meta": {}
+    },
+    "forcegraph2d--basic--default": {
+      "name": "Default",
+      "levels": [
+        "Forcegraph2d",
+        "Basic"
+      ],
+      "locStart": 34,
+      "locEnd": 53,
+      "filePath": "story-src/BasicGraph.stories.tsx",
+      "namedExport": "Default",
+      "meta": {}
+    },
+    "forcegraph2d--basic--directional-arrows": {
+      "name": "Directional arrows",
+      "levels": [
+        "Forcegraph2d",
+        "Basic"
+      ],
+      "locStart": 74,
+      "locEnd": 92,
+      "filePath": "story-src/BasicGraph.stories.tsx",
+      "namedExport": "DirectionalArrows",
+      "meta": {}
+    },
+    "forcegraph2d--hook-controls--click-to-focus": {
+      "name": "Click to focus",
+      "levels": [
+        "Forcegraph2d",
+        "Hook controls"
+      ],
+      "locStart": 179,
+      "locEnd": 206,
+      "filePath": "story-src/HookControls.stories.tsx",
+      "namedExport": "ClickToFocus",
+      "meta": {}
+    },
+    "forcegraph2d--hook-controls--pause-resume": {
+      "name": "Pause resume",
+      "levels": [
+        "Forcegraph2d",
+        "Hook controls"
+      ],
+      "locStart": 91,
+      "locEnd": 122,
+      "filePath": "story-src/HookControls.stories.tsx",
+      "namedExport": "PauseResume",
+      "meta": {}
+    },
+    "forcegraph2d--hook-controls--simulation-strength": {
+      "name": "Simulation strength",
+      "levels": [
+        "Forcegraph2d",
+        "Hook controls"
+      ],
+      "locStart": 132,
+      "locEnd": 171,
+      "filePath": "story-src/HookControls.stories.tsx",
+      "namedExport": "SimulationStrength",
+      "meta": {}
+    },
+    "forcegraph2d--hook-controls--zoom-and-pan": {
+      "name": "Zoom and pan",
+      "levels": [
+        "Forcegraph2d",
+        "Hook controls"
+      ],
+      "locStart": 49,
+      "locEnd": 83,
+      "filePath": "story-src/HookControls.stories.tsx",
+      "namedExport": "ZoomAndPan",
+      "meta": {}
+    }
+  }
+}

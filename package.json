@@ -42,7 +42,9 @@
   "scripts": {
     "build": "rimraf dist && rollup -c",
     "dev": "rollup -w -c rollup.config.dev.js",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "storybook": "ladle serve",
+    "storybook:build": "ladle build"
   },
   "files": [
     "dist/**/*"
@@ -62,6 +64,7 @@
     "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.0",
     "@babel/preset-react": "^7.28.5",
+    "@ladle/react": "^5.1.1",
     "@rollup/plugin-babel": "^6.1.0",
     "@rollup/plugin-commonjs": "^29.0.0",
     "@rollup/plugin-node-resolve": "^16.0.3",
@@ -69,6 +72,7 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@types/react": "^19.2.11",
     "@types/three": "^0.182.0",
+    "@vitejs/plugin-react": "^4.7.0",
     "rimraf": "^6.1.2",
     "rollup": "^4.57.1",
     "rollup-plugin-dts": "^6.3.0",
