@@ -41,6 +41,54 @@
       "namedExport": "DirectionalArrows",
       "meta": {}
     },
+    "forcegraph2d--custom-forces--charge-strength": {
+      "name": "Charge strength",
+      "levels": [
+        "Forcegraph2d",
+        "Custom forces"
+      ],
+      "locStart": 74,
+      "locEnd": 115,
+      "filePath": "story-src/CustomForces.stories.tsx",
+      "namedExport": "ChargeStrength",
+      "meta": {}
+    },
+    "forcegraph2d--custom-forces--collision-force": {
+      "name": "Collision force",
+      "levels": [
+        "Forcegraph2d",
+        "Custom forces"
+      ],
+      "locStart": 185,
+      "locEnd": 254,
+      "filePath": "story-src/CustomForces.stories.tsx",
+      "namedExport": "CollisionForce",
+      "meta": {}
+    },
+    "forcegraph2d--custom-forces--link-distance": {
+      "name": "Link distance",
+      "levels": [
+        "Forcegraph2d",
+        "Custom forces"
+      ],
+      "locStart": 124,
+      "locEnd": 175,
+      "filePath": "story-src/CustomForces.stories.tsx",
+      "namedExport": "LinkDistance",
+      "meta": {}
+    },
+    "forcegraph2d--custom-forces--remove-center-force": {
+      "name": "Remove center force",
+      "levels": [
+        "Forcegraph2d",
+        "Custom forces"
+      ],
+      "locStart": 264,
+      "locEnd": 322,
+      "filePath": "story-src/CustomForces.stories.tsx",
+      "namedExport": "RemoveCenterForce",
+      "meta": {}
+    },
     "forcegraph2d--hook-controls--click-to-focus": {
       "name": "Click to focus",
       "levels": [
